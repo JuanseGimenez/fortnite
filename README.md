@@ -16,7 +16,7 @@ Resource enabled:
 ### Installation
 
 ```sh
-	gem install fortnite
+gem install fortnite
 ```
 
 ### How to use
